@@ -1,0 +1,9 @@
+name: EsnFireWorks
+version: '${project.version}'
+main: esn.essence.esnfireworks.esnfireworks.EsnFireWorks
+api-version: '1.16'
+commands:
+  esnfireworks:
+    description: Устанавливает автоматический запуск фейверков
+    usage: §6[EsnFireWorks] §fИспользуйте §7- §6/<command> <x> <y> <z> <interval> <power> <count>
+    aliases: esnfworks
